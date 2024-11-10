@@ -54,10 +54,6 @@ I am a **Full Stack Developer** with a strong background in **Industrial Design*
 
 ---
 
-## 🚀 Profile Visits
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ainiatiqaha.visitor-badge)
-
----
 
 ## 📜 **Favorite Quote**
 > "The best way to predict the future is to invent it." – **Alan Kay**
